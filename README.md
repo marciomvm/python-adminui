@@ -89,7 +89,7 @@ The front-end is in the `/src` folder.
 The back-end is in the `/python` folder.  
 To start developing:
 
-- cd into `/python` folder and run `pip install -r requirements.txt` to install requirements
+- cd into `/python` folder and run `pip install -r requirement.txt` to install requirements
 - run one of the example_xxx.py file in the `/python` folder
 - Open another terminal, run `npm install` & `npm start` at the root folder to start the frontend; 
 
